@@ -6,6 +6,7 @@
 
 body {
   display: flex;
+  font-family: "Roboto", sans-serif;
   justify-content: center;
   align-items: center;
   height: 100vh;
@@ -25,6 +26,7 @@ body {
 .heading {
   text-transform: uppercase;
   margin-bottom: 20px;
+  font-weight: bold;
 }
 
 .joke {
